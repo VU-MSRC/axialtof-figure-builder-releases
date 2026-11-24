@@ -8,6 +8,14 @@ labelled figures as **PNG, PDF, or SVG** at exact centimetre sizes.
 
 Everything runs locally. No spectrum data leaves your computer.
 
+## Use it in your browser — nothing to install
+
+**→ <https://vu-msrc.github.io/axialtof-figure-builder-releases/>**
+
+The full app, running right in the page. Drag a zipped flex folder (or the
+folder itself) onto the window and go. It works offline once loaded, and your
+spectra are processed entirely on your own computer — nothing is uploaded.
+
 ## Download
 
 Get the latest version from the **[Releases](../../releases/latest)** page:
