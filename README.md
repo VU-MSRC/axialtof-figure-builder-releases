@@ -1,7 +1,3 @@
-<!-- This is the README for the PUBLIC releases-only repository. Copy it there
-     as README.md. The source repository stays private; this public repo holds
-     nothing but this file and the Releases. -->
-
 # AxialTOF Figure Builder
 
 Read Bruker flex-series (axial time-of-flight) spectra — autoflex, ultraflex,
