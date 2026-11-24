@@ -4,7 +4,7 @@ Read Bruker flex-series (axial time-of-flight) spectra — autoflex, ultraflex,
 microflex, neofleX — and build clean, publication-ready figures from them. It
 opens the classic XMASS folder layout (`fid` + `acqus`), reconstructs the m/z
 axis from the calibration stored in the folder, lists the peaks, and exports
-labelled figures as **PNG, PDF, or SVG** at exact centimetre sizes.
+labelled figures as **PNG, PDF, or SVG** at exact centimeter sizes.
 
 Everything runs locally. No spectrum data leaves your computer.
 
